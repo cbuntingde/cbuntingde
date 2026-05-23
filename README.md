@@ -5,11 +5,11 @@ Hi!
 
 🛠️ In my spare time, I try to build things that solve real problems:
 
+* [WordPress-7.0-Clean](https://github.com/cbuntingde/WordPress-7.0-Clean) - WordPress 7.0 modernized for PHP 8.5+ - removes deprecated code, cleaner codebase
 * [npm-scan](https://github.com/cbuntingde/npm-scan) - Security scanner for npm packages targeting supply chain attacks
 * [claude-memory](https://github.com/cbuntingde/claude-memory) - Enterprise MCP server for persistent memory in Claude Code
 * [wp-guard](https://github.com/cbuntingde/wp-guard) - WordPress file integrity monitor and malware scanner
 * [classic-editor](https://github.com/cbuntingde/classic-editor) - WordPress Classic Editor fork with PHP 8.2+ modernization
-* [claude-skills-wordpress](https://github.com/cbuntingde/claude-skills-wordpress) - WordPress development skills for Claude Code
 * [wpstack](https://github.com/cbuntingde/wpstack) - Stack management for WordPress
 * [wp-cli-ai-security](https://github.com/cbuntingde/wp-cli-ai-security) - AI-powered security scanning for WordPress plugins/themes
 * [theme-manager](https://github.com/cbuntingde/theme-manager) - Admin utility for managing WordPress themes
