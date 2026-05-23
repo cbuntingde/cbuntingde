@@ -5,9 +5,9 @@ Hi!
 
 🛠️ In my spare time, I try to build things that solve real problems:
 
-* [wp-guard](https://github.com/cbuntingde/wp-guard) - WordPress file integrity monitor and malware scanner
 * [npm-scan](https://github.com/cbuntingde/npm-scan) - Security scanner for npm packages targeting supply chain attacks
 * [claude-memory](https://github.com/cbuntingde/claude-memory) - Enterprise MCP server for persistent memory in Claude Code
+* [wp-guard](https://github.com/cbuntingde/wp-guard) - WordPress file integrity monitor and malware scanner
 * [classic-editor](https://github.com/cbuntingde/classic-editor) - WordPress Classic Editor fork with PHP 8.2+ modernization
 * [claude-skills-wordpress](https://github.com/cbuntingde/claude-skills-wordpress) - WordPress development skills for Claude Code
 * [wpstack](https://github.com/cbuntingde/wpstack) - Stack management for WordPress
