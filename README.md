@@ -18,3 +18,5 @@ Hi!
 ⚡ Tech I use: TypeScript, JavaScript, Next.js, React, WordPress, Go, PHP
 
 📫 You can reach me on [GitHub](https://github.com/cbuntingde) or [email](mailto:cbuntingde@gmail.com).
+----
+@@ NOTE: I lost my phone that had my auth app so starting over with a new account.
