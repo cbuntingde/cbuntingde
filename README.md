@@ -3,8 +3,6 @@ Hi!
 
 🎯 Over the years, I've worked on various projects and picked up a few skills along the way. These days I enjoy building things that solve real problems—whether for myself or anyone else who finds them useful.
 
-🛠️ In my spare time, I try to build things that solve real problems:
-
 * [WordPress-7.0-Clean](https://github.com/cbuntingde/WordPress-7.0-Clean) - WordPress 7.0 modernized for PHP 8.5+ - removes deprecated code, cleaner codebase
 * [npm-scan](https://github.com/cbuntingde/npm-scan) - Security scanner for npm packages targeting supply chain attacks
 * [claude-memory](https://github.com/cbuntingde/claude-memory) - Enterprise MCP server for persistent memory in Claude Code
