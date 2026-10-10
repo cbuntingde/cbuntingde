@@ -1,15 +1,3 @@
-<div align="center">
-
-# cbuntingde
-
-**A pile of half-finished things, kept public.**
-
-</div>
-
----
-
-Most repos are a finished thing with a clear purpose. This isn't one.
-
 This is a **workbench** — a running collection of experiments, half-built tools, sketches, and ideas that never found a reason to be finished. Everything here was made by hand *and* with AI assistance, using open source models throughout.
 
 ## Why it's public
